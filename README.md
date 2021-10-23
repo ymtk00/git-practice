@@ -11,4 +11,4 @@ new-featureブランチで変更
 conflict変更
 Github上で更新
 conflict-remote上で更新
-ribase-practiceで更新(mainブランチで更新 rebaseコンフリクト用)
+ribase-practiceで更新(rebaseコンフリクト用)
