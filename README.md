@@ -14,3 +14,4 @@ conflict-remote上で更新
 ribase-practiceで更新(rebaseコンフリクト用)
 rebase pull用
 stash連須臾
+stash練習(2nd変更)
